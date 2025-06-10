@@ -1,0 +1,5 @@
+name: hello-node-app
+runtime: nodejs
+version: 18
+entrypoint: index.js
+port: 3000
