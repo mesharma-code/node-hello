@@ -1,5 +1,5 @@
-name: hello-node-app
+name: node-hello
 runtime: nodejs
 version: 18
-entrypoint: index.js
+entrypoint: server.js
 port: 3000
